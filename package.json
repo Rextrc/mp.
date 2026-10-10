@@ -1,0 +1,11 @@
+{
+  "name": "mercado-pago-ui-editable",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "build": "node build.mjs",
+    "start": "STATIC_DIR=dist node server.mjs"
+  }
+}
